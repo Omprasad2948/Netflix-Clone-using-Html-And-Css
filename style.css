@@ -97,7 +97,7 @@ nav button {
 
 .btn {
     font-family: "poppins", "sans-serif";
-    padding: 3px 7px;
+    padding: 3px 25px;
     font-weight: 400;
     background-color: rgba(248, 243, 2433, 0.021);
     cursor: pointer;
@@ -213,7 +213,7 @@ nav button {
     padding: 0.4em;
     position: relative;
     cursor: pointer;
-    font-size: 24px;
+    font-size: 22px;
     transition: all 1s ease-out;
 }
 .faqbox svg{
@@ -268,4 +268,18 @@ footer{
 }
 footer .question{
     padding: 20px  0px;
+}
+
+footer button{
+    margin-top: 41px;
+}
+
+footer .end a{
+    color: gray;
+    font-size: 14px;
+    margin-top: 14px;
+}
+footer .end{
+   
+    margin-top: 14px;
 }
