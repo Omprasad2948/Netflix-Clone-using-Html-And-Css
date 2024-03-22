@@ -17,12 +17,12 @@ body {
     background-repeat: no-repeat;
     background-size: max(1200px, 100vw);
     width: 100%;
-    height: 73vh;
+    height: 89vh;
     position: relative;
 }
 
 .main .box {
-    height:73vh;
+    height:89vh;
     width: 100%;
     opacity: 0.69;
     background-color: black;
@@ -34,7 +34,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    max-width: 60vw;
+    max-width: 80vw;
     margin: auto;
     height: 100px;
 
@@ -110,6 +110,7 @@ nav button {
     justify-content: center;
     align-items: center;
     gap: 16px;
+    width: 90vw;
 }
 
 .btn-red {
@@ -183,7 +184,7 @@ nav button {
 }
 
 .vid {
-    margin-top: -33px;
+    margin-top: -22px;
     position: absolute;
     overflow: hidden;
     width: 500px;
@@ -315,6 +316,7 @@ footer {
     .btn-red {
         background-color: red;
         padding: 0;
+        width: 142px;
 
     }
 
@@ -405,7 +407,7 @@ footer {
 
     .vid {
         width: 300px;
-        margin-top: -100px;
+        margin-top: -128px;
         overflow: hidden;
     }
 }
