@@ -183,14 +183,6 @@ nav button {
     font-weight: bolder;
 }
 
-.vid {
-    margin-top: -22px;
-    position: absolute;
-    overflow: hidden;
-    width: 500px;
-    height: 60vh;
-
-}
 
 .faq {
     width: 100%;
@@ -416,12 +408,7 @@ footer {
         padding: 35px;
     }
 
-    .vid {
-        width: 300px;
-        position: absolute;
-        margin-top: -36px;
-        overflow: hidden;
-    }
+   
 }
 
 @media screen and (max-width :1341px) {
